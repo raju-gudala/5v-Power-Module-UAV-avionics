@@ -1,0 +1,16 @@
+.XAL7070-332MEC :1 ;Power Inductors - SMD 3.3uH Shld 20% 15.1A 9.42mOhms AECQ2
+XAL7070332MEC
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN XAL7070-332MEC
+~!Mouser Part Number (994-XAL7070-332MEC)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Coilcraft/XAL7070-332MEC?qs=zCSbvcPd3pYy2mgyZPJrOA%3D%3D)
+~!Manufacturer_Name (COILCRAFT)
+~!Manufacturer_Part_Number (XAL7070-332MEC)
+~!Link Datasheet (https://www.coilcraft.com/getmedia/1ba55433-bcc8-4838-9b21-382f497e12e0/xal7070.pdf)
+~!Height (7mm)
+~!3D_Model (XAL7070-332MEC)
+XAL7070-332MEC
+1.1!U 2.1!U 

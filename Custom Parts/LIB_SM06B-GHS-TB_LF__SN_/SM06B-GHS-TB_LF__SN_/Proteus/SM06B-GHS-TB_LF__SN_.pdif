@@ -1,0 +1,150 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "SM06B-GHS-TB_LF__SN_"
+   (description "GH 1.25mm header side entry 6 way JST GH Series, 1.25mm Pitch 6 Way Right Angle PCB Header, Solder Termination, 1A")
+   (family "CON")
+   (package "SM06B-GHS-TB")
+   (attribute "Datasheet Link" "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/e4ef010dc292ea31091454f6c0afb63a.pdf")
+   (attribute "Mouser Part Number" "N/A")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/JST-Commercial/SM06B-GHS-TBLFSN?qs=QpmGXVUTftFzTQe43vH9Ig%3D%3D")
+   (attribute "Manufacturer_Name" "JST (JAPAN SOLDERLESS TERMINALS)")
+   (attribute "Manufacturer_Part_Number" "SM06B-GHS-TB(LF)(SN)")
+   (gate
+    (symbol "SM06B-GHS-TB_LF__SN_")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+    (pin "5" 5 PS)
+    (pin "6" 6 PS)
+   )
+  )
+  (symbol "SM06B-GHS-TB_LF__SN_"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SM06B-GHS-TB"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed true)
+      (pt 0 4.05)
+      (pt 10.75 4.05)
+      (pt 10.75 0)
+      (pt 0 0)
+      (pt 0 4.05))))
+   (layer TSLK
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed false)
+      (pt 1.26333 0)
+      (pt 9.519 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed false)
+      (pt 0 4.05)
+      (pt 0 2.67767))))
+   (layer TSLK
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed false)
+      (pt 10.75 4.05)
+      (pt 10.75 2.706))))
+   (layer TSLK
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed false)
+      (pt 10.75 4.05)
+      (pt 8.995 4.05))))
+   (layer TSLK
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed false)
+      (pt 0 4.05)
+      (pt 1.73067 4.05))))
+   (layer TSLK
+    (graphic
+     (stroke 0.254)
+     (circle
+      (pt 1.1889 5.41067) (pt 1.3091 5.41067)
+     )
+    )
+   )
+   (leg 1 (pt 2.25 4.3) (padstack 0))
+   (leg 2 (pt 3.5 4.3) (padstack 0))
+   (leg 3 (pt 4.75 4.3) (padstack 0))
+   (leg 4 (pt 6 4.3) (padstack 0))
+   (leg 5 (pt 7.25 4.3) (padstack 0))
+   (leg 6 (pt 8.5 4.3) (padstack 0))
+   (leg 7 (pt 0.4 1.1) (padstack 7))
+   (leg 8 (pt 10.35 1.1) (padstack 8))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.6 1.7 0 0 90))
+   )
+   (padstack 7
+    (plated false)
+    (pad (layer TCOP) (rectf 1 2.7 0 0 90))
+   )
+   (padstack 8
+    (plated false)
+    (pad (layer TCOP) (rectf 1 2.7 0 0 90))
+   )
+   (model "SM06B-GHS-TB_LF__SN_.stp"
+    (euler 90 0 0)
+    (offset 14.670000076293945 -9.899999618530273 -23.1299991607666)
+   )
+  )
+ )
+)

@@ -1,0 +1,9 @@
+Manufacturer=Susumu
+PartNumber=MSRPM3920R-0L50-D2P0
+PartCategory=Resistor
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2025-11-14 10:42:25
+Downloaded=2026-01-22 10:01:10
+3D=N

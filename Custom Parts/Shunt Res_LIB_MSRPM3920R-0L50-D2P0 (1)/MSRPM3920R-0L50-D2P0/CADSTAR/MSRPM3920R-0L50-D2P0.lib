@@ -1,0 +1,15 @@
+.MSRPM3920R-0L50-D2P0 :1 ;Current Sense Resistors - SMD Current Sensing Resistors, 3920, 9W, 0.0005 ohms, 0.5%, 100ppm
+MSRPM3920R0L50D2P0
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN MSRPM3920R-0L50-D2P0
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (Susumu)
+~!Manufacturer_Part_Number (MSRPM3920R-0L50-D2P0)
+~!Link Datasheet (https://www.susumu.co.jp/en/product_detail?pdid=109153)
+~!Height (1.7mm)
+MSRPM3920R-0L50-D2P0
+1.1!U 2.1!U 

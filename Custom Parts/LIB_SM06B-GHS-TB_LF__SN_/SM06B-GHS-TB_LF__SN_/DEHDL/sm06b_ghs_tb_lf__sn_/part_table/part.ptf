@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SM06B_GHS_TB_LF__SN_'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "JST (JAPAN SOLDERLESS TERMINALS)", "SM06B-GHS-TB(LF)(SN)" (!) = "", "SM06B-GHS-TB", "Other", "N/A", "https://www.mouser.co.uk/ProductDetail/JST-Commercial/SM06B-GHS-TBLFSN?qs=QpmGXVUTftFzTQe43vH9Ig%3D%3D", "GH 1.25mm header side entry 6 way JST GH Series, 1.25mm Pitch 6 Way Right Angle PCB Header, Solder Termination, 1A", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/e4ef010dc292ea31091454f6c0afb63a.pdf"
+END_PART
+
+END.

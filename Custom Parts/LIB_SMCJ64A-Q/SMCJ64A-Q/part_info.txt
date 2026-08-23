@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=SMCJ64A-Q
+PartCategory=TVS Diode (Uni-directional)
+PackageCategory=Diodes Moulded
+PinCount=2
+Version=2.1
+Released=2020-10-19 05:43:40
+Downloaded=2026-01-31 11:46:17
+3D=Y

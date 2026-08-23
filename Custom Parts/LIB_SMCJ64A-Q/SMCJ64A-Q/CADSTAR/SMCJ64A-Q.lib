@@ -1,0 +1,16 @@
+.SMCJ64A-Q :1 ;DIO TVS VRWM 64V 1500W UNIDIR SMC AECQ
+DIOM7959X262N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN SMCJ64A-Q
+~!Mouser Part Number (652-SMCJ64A-Q)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bourns/SMCJ64A-Q?qs=zW32dvEIR3s5i5tv8qd%252BRQ%3D%3D)
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (SMCJ64A-Q)
+~!Link Datasheet (https://bourns.com/docs/product-datasheets/smcj-q.pdf)
+~!Height (2.62mm)
+~!3D_Model (SMCJ64A-Q)
+SMCJ64A-Q
+1.1!U 2.1!U 

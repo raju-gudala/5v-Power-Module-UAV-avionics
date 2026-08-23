@@ -1,0 +1,78 @@
+(footprint "solder_pad_2.5mmx2.5mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "7e809dee-3a2d-4c49-b4dc-17cd8218c18b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "solderpad_0.25mmx0.25mm"
+		(at -0.25 -1.75 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "d24c05e6-ce72-4532-928e-8441c7c0a657")
+		(effects
+			(font
+				(size 0.34544 0.34544)
+				(thickness 0.06096)
+				(bold yes)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7f89cab3-c609-400c-8768-c32b0baece91")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f95c2286-01d2-4f5a-ad24-340d635db265")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_text user "${REFERENCE}"
+		(at -0.25 -1.75 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "6faa4c83-3b32-4e65-b30b-6236ec907099")
+		(effects
+			(font
+				(size 0.34544 0.34544)
+				(thickness 0.06096)
+				(bold yes)
+			)
+		)
+	)
+	(pad "1" smd oval
+		(at -0.25 -1.75)
+		(size 3.5 2.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d365553f-7a8e-4730-a461-bf2f9d35eaf1")
+	)
+	(embedded_fonts no)
+)

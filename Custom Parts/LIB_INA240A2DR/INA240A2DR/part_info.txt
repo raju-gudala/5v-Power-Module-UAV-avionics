@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=INA240A2DR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2019-09-04 03:57:47
+Downloaded=2026-01-22 11:14:53
+3D=Y

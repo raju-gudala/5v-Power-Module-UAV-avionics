@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SM06B-GHS-TB"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SM06B-GHS-TB")
+        (spec "default")
+    )
+)

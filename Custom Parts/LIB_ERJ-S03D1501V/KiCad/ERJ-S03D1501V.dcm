@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ERJ-S03D1501V
+D Thick Film Resistors - SMD 0603 0.5% 1.5kOhm Anti-Sulfur AEC-Q200
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDP0000/AOA0000C334.pdf
+$ENDCMP
+#
+#End Doc Library

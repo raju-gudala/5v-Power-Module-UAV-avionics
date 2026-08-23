@@ -1,0 +1,117 @@
+(footprint "CAPPRD500W60D1050H1350"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "10*12___")
+	(tags "Capacitor")
+	(property "Reference" "C**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "aaee46df-b47f-4d32-867a-5fe17774da33")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "CAPPRD500W60D1050H1350"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "f9dc3e76-c1fd-4b93-9d6c-f4c555b43a20")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "90e6a748-2336-4bfb-9552-0f2d14338cbd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2b094491-bbfd-4a53-8fdf-33375ea56e15")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_circle
+		(center 2.5 0)
+		(end 2.5 5.25)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "358c53e0-9076-4e9c-bd9d-494a9b4acc5c")
+	)
+	(fp_circle
+		(center 2.5 0)
+		(end 2.5 5.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "cf51a802-d5b6-4756-9e13-f0274915a080")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "d8ee0d83-78bc-496b-86e0-f101d87a212b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.2 1.2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "32f123ba-6f0e-443b-baf6-12c61256a1da")
+	)
+	(pad "2" thru_hole circle
+		(at 5 0)
+		(size 1.2 1.2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "be294125-e507-4ad7-a4b8-828426057d26")
+	)
+	(embedded_fonts no)
+	(model "MAL213656221E3.stp"
+		(offset
+			(xyz 2.469999992 0 0.279999997)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 -90)
+		)
+	)
+)

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PwrBrk5V")(type "KiCad")(uri "${KIPRJMOD}/PwrBrk5V.kicad_sym")(options "")(descr ""))
+  (lib (name "PWR_brick")(type "KiCad")(uri "${KIPRJMOD}/PWR_brick.kicad_sym")(options "")(descr ""))
+)

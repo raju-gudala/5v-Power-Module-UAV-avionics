@@ -1,0 +1,21 @@
+# KiCad local settings
+*.kicad_prl
+
+# KiCad backup folders
+*-backups/
+
+# Local history
+.history/
+.history_trim/
+
+# Backup files
+*.bak
+*~
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.swp

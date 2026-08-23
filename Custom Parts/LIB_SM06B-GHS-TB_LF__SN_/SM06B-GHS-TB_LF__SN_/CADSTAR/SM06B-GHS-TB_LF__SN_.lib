@@ -1,0 +1,16 @@
+.SM06B-GHS-TB_LF__SN_ :1 ;GH 1.25mm header side entry 6 way JST GH Series, 1.25mm Pitch 6 Way Right Angle PCB Header, Solder Termination, 1A
+SM06B-GHS-TB
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6"
+*MXP 8
+*DFN SM06B-GHS-TB_LF__SN_
+~!Mouser Part Number (N/A)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/JST-Commercial/SM06B-GHS-TBLFSN?qs=QpmGXVUTftFzTQe43vH9Ig%3D%3D)
+~!Manufacturer_Name (JST (JAPAN SOLDERLESS TERMINALS))
+~!Manufacturer_Part_Number (SM06B-GHS-TB(LF)(SN))
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/e4ef010dc292ea31091454f6c0afb63a.pdf)
+~!Height (-)
+~!3D_Model (SM06B-GHS-TB_LF__SN_)
+SM06B-GHS-TB_LF__SN_
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

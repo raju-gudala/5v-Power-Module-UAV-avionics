@@ -1,0 +1,16 @@
+.INA240A2DR :1 ;80V, Low-/High-Side, Bi-Directional, Zero-Drift, Current Sense Amp w/Enhanced PWM Rejection
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="IN-" 2="GND" 3="REF2" 4="NC" 5="OUT" 6="VS" 7="REF1" 8="IN+"
+*MXP 8
+*DFN INA240A2DR
+~!Mouser Part Number (595-INA240A2DR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/INA240A2DR?qs=AQlKX63v8RtFUWHuhLNCsw%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (INA240A2DR)
+~!Link Datasheet (http://www.ti.com/lit/gpn/ina240)
+~!Height (1.75mm)
+~!3D_Model (INA240A2DR)
+INA240A2DR
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

@@ -1,0 +1,19 @@
+### Footprint positions - created on 2026-02-10T15:17:28+0530 ###
+### Printed by KiCad version 9.0.4
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val              Package                      PosX       PosY       Rot  Side
+C+1       cap_+ve          solder_pad_2.5mmx2.5mm   139.8100   -86.6500  -90.0000  bottom
+C-1       cap_-ve          solder_pad_2.5mmx2.5mm   131.3000   -86.1400   90.0000  bottom
+C13       100nF,_16V,_X7R  R_0603_1608Metric        128.9600  -109.4600    0.0000  bottom
+C15       100nF,_16V,_X7R  C_0603_1608Metric        125.7800   -96.1550   90.0000  bottom
+IC2       INA240A2DR       SOIC127P600X175-8N       130.5850   -94.5310   90.0000  bottom
+J2        BATT-            pad_7mmx7mm              145.5800  -102.9700  180.0000  bottom
+J4        GND              pad_7mmx7mm              145.6100   -94.4800  180.0000  bottom
+L2        XAL7070-332MEC   XAL7070332MEC            129.8300  -103.2200   90.0000  bottom
+R2        1M,_1%           R_0603_1608Metric        135.7600   -93.3500    0.0000  bottom
+R3        120k,_1%         R_0603_1608Metric        135.7450   -91.6600  180.0000  bottom
+R6        100k,_1%         R_0805_2012Metric        126.0200  -110.4225  -90.0000  bottom
+R7        5.6k,_1%         R_0603_1608Metric        129.0150  -111.3400  180.0000  bottom
+R11       47E              R_0603_1608Metric        125.7800   -92.6650   90.0000  bottom
+## End

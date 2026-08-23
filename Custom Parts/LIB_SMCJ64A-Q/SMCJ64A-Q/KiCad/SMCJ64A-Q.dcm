@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SMCJ64A-Q
+D DIO TVS VRWM 64V 1500W UNIDIR SMC AECQ
+K
+F https://bourns.com/docs/product-datasheets/smcj-q.pdf
+$ENDCMP
+#
+#End Doc Library

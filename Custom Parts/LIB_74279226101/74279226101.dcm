@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74279226101
+D WE-MPSB EMI Multilayer Power Suppression Bead Size 1812; Z @ 100 MHz = 100 ; Zmax = 160  @ 1100 MHz; IR = 8000 mA; RDC = 0.006 
+K
+F https://www.we-online.com/catalog/datasheet/74279226101.pdf
+$ENDCMP
+#
+#End Doc Library
